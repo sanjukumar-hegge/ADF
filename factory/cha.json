@@ -1,0 +1,9 @@
+{
+	"name": "cha",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4b129b9f-cece-403d-abcb-fec48d62f09e",
+		"tenantId": "559ac657-b77b-448e-b4fd-b8d6310f60bf"
+	}
+}
