@@ -5,7 +5,7 @@
 		"type": "SqlServer",
 		"typeProperties": {
 			"server": "SANJUKUMAR",
-			"database": "Table",
+			"database": "master",
 			"encrypt": "mandatory",
 			"trustServerCertificate": true,
 			"authenticationType": "Windows",
